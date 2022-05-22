@@ -1,0 +1,11 @@
+# app
+dist
+node_modules
+.build
+
+# ide
+.idea
+.vscode
+
+# docker
+Dockerfile
